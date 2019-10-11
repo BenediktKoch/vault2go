@@ -3,6 +3,7 @@ makes the vault mystery universe simple
 
 JBoss / EAP offers with vault.sh a script for encoding cleartext passwords in standalone.xml.
 RedHat describes the process to get an encrypted password with keytool and vault.sh.
+
 vault2go.sh automates the described process and generates a standalone.xml with encryped passwords.
 
 Usage: 
