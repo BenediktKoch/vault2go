@@ -7,6 +7,7 @@ vault2go.sh automates the described process and generates a standalone.xml with 
 
 Usage: 
 To encrypt a password in standalone.xml: vault2go.sh <JBOSS_HOME> <ALIAS> <PASSWORD>
+
 To encrypt a password in other-file.xml: vault2go.sh <JBOSS_HOME> <ALIAS> <PASSWORD> other-file.xml
 
 Output:
