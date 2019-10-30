@@ -1,5 +1,5 @@
 # vault2go
-makes the vault mystery universe simple
+ready to go standalone.xml with encrypted passwords in less than one minute
 
 JBoss / EAP offers with vault.sh a script for encoding cleartext passwords in standalone.xml.
 
